@@ -14,7 +14,7 @@ Some valuable references:
 
   * [NuGet Documentation](https://docs.microsoft.com/en-us/nuget/)
   * [NuGet Sources](https://github.com/NuGet)
-123
+12
 ## Getting started
 
 Add dependency to `pom.xml`:
